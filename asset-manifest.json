@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb881ff9.css",
-    "main.js": "/static/js/main.b931c265.js",
-    "index.html": "/index.html",
-    "main.bb881ff9.css.map": "/static/css/main.bb881ff9.css.map",
-    "main.b931c265.js.map": "/static/js/main.b931c265.js.map"
+    "main.css": "/djowda-white-label-builder-site/static/css/main.bb881ff9.css",
+    "main.js": "/djowda-white-label-builder-site/static/js/main.b931c265.js",
+    "index.html": "/djowda-white-label-builder-site/index.html",
+    "main.bb881ff9.css.map": "/djowda-white-label-builder-site/static/css/main.bb881ff9.css.map",
+    "main.b931c265.js.map": "/djowda-white-label-builder-site/static/js/main.b931c265.js.map"
   },
   "entrypoints": [
     "static/css/main.bb881ff9.css",
