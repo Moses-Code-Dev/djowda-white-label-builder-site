@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/djowda-white-label-builder-site/static/css/main.bb881ff9.css",
-    "main.js": "/djowda-white-label-builder-site/static/js/main.b931c265.js",
+    "main.css": "/djowda-white-label-builder-site/static/css/main.1fd0bce4.css",
+    "main.js": "/djowda-white-label-builder-site/static/js/main.e92e7c12.js",
+    "static/media/djowda-logo.png": "/djowda-white-label-builder-site/static/media/djowda-logo.8ec57957316da5b1a644.png",
     "index.html": "/djowda-white-label-builder-site/index.html",
-    "main.bb881ff9.css.map": "/djowda-white-label-builder-site/static/css/main.bb881ff9.css.map",
-    "main.b931c265.js.map": "/djowda-white-label-builder-site/static/js/main.b931c265.js.map"
+    "main.1fd0bce4.css.map": "/djowda-white-label-builder-site/static/css/main.1fd0bce4.css.map",
+    "main.e92e7c12.js.map": "/djowda-white-label-builder-site/static/js/main.e92e7c12.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb881ff9.css",
-    "static/js/main.b931c265.js"
+    "static/css/main.1fd0bce4.css",
+    "static/js/main.e92e7c12.js"
   ]
 }
